@@ -1,2 +1,2 @@
-# book_code
-Accompanying code for my book "Simulation in Python with SimPy"
+# Readme
+This repo contains accompanying code for my book "Simulation in Python with SimPy"
